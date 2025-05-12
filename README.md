@@ -1,10 +1,20 @@
 # Gender-Based-Analysis
 Cognifyz Technologies Task 2: Gender Based Analysis.
 
-Objective: Analyze and visualize genderbased differences in investment preferences.
+**Objective:** Analyze and visualize gender-based differences in investment preferences.
 
-In this particular task, gender based analysis was to be conducted. Study of investments was to be done based on gender to understand the trends of investments.
-  The dashboard needed to look clean and professional. The bifircation of the data was done into two genders: Male and Female.
-  Through the analysis, it was observed that there were more male investors (63%) than female investors (38%).
-  The investments were considered for 4 particular avenues: Equity, Fixed Deposists, Public Provident Funds and Mutual Fund.
-  It was found that most of the Female investors prefer Mutual Funds where as most of the Male investors prefered 
+**My Approach:**
+  *Data Cleaning and Analysis:*
+      Explored the data to understand the investment approach between the given genders. Bifurcated the data into two genders: Male and Female.
+      Calculated the required measures for the dashboard.
+
+  *My Findings:*
+        1. There were more male investors (25) than female investors (15).
+        2. The investments were considered for 4 particular avenues: Equity, Fixed Deposists, Public Provident Funds and Mutual Fund.
+        3. It was found that Both investors prefer:
+                        1. Investing in Mutual Funds
+                        2. Investment Objective for Capitral Appreciation
+                        3. Investment saving objective for Retirement Plans.
+        4. Male investors prefer investing in stock market where as only a few Female investors like to invest into the stock markets.
+        5. Male investors have a total of 151 of Gold Bonds whereas Female investors have a total of 88 Gold Bonds.
+        6. This data suggests that this is primarily a male dominated domain.
